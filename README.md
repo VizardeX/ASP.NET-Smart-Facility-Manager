@@ -1,4 +1,4 @@
-# ASP.NET Smart Facility Manager (HomeSync)
+# HomeSync
 
 ## Overview
 **HomeSync** is a role-based web application built using ASP.NET Web Forms. It functions as a virtual assistant platform designed to help users manage home-related tasks and routines. It supports multiple user types (Admins and Guests), providing tools to organize schedules, monitor health and finances, manage rooms and devices, communicate internally, and more.
