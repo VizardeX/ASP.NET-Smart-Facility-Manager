@@ -21,7 +21,7 @@
 - **Security Camera Monitoring**: View room-specific camera feeds for home surveillance.
 
 ## Database Setup
-The SQL files:
+The project includes three SQL files to help initialize and test the system:
 - `Tables.sql` – Creates the database schema and relationships
 - `Insertions.sql` – Fills the system with some users, rooms, devices, and other starting data to help test and explore the platform
 - `Procedures.sql` – Defines stored procedures for user registration, login, and other actions
