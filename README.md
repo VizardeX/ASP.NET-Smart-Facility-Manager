@@ -11,13 +11,6 @@
 - User profile pages: Personalized profile pages for different user roles.
 - Finance communication modules: Tools for internal finance users and guest communication.
 
-## Technologies Used
-- Frontend: ASP.NET Web Forms (.aspx, .aspx.cs)
-- Backend: C#, ADO.NET
-- Database: Microsoft SQL Server
-- IDE: Visual Studio
-- Configuration: Web.config
-
 ## Database Setup
 The `SQL` folder contains the following scripts:
 - `Tables.sql`: Defines all database tables and relationships
@@ -29,9 +22,3 @@ To set up the database:
 2. Execute `Tables.sql`.
 3. Execute `Insertions.sql`.
 4. Execute `Procedures.sql`.
-
-## How to Run
-1. Open `Milestone3.sln` in Visual Studio.
-2. Build the solution.
-3. Run the project using IIS Express.
-4. Use the login or registration pages to explore functionality by user type.
